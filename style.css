@@ -1,0 +1,44 @@
+*{
+    none;
+}
+
+body{
+    background-color: #1B2721;
+}
+.main{
+    background-color: #1A251E;
+}
+
+.main .charge button{
+    margin-left: 37%;
+    color: blue;
+    border-radius: 28px;
+    font-size: 40px;
+    background-color: #1D3525;
+    color: #A8BAAD;
+    font-weight: bolder;
+    border: 2px #1D6020 solid;
+    font-size: 30px;
+    margin-top: 10px;
+    padding-left: 20px;
+}
+  
+.chr img{
+    margin-left: 660px;
+}
+
+.para .right h1{
+    margin-left: 600px;
+    margin-top: 10px;
+    font-weight: bolder;
+    font-size: 150px;
+    color: #A8BAAD;
+}
+
+.para .left h1{
+    margin-left: 650px;
+    margin-top: -100px;
+    font-weight: bolder;
+    font-size: 50px;
+    color: #A8BAAD;
+}
